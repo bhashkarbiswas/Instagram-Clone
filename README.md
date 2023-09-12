@@ -1,2 +1,2 @@
 # Instagram-Clone
-Created with CodeSandbox
+Created a landing page of Instagram using HTML & CSS!
